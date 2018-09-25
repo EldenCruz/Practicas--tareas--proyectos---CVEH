@@ -1,0 +1,13 @@
+C:\Users\Elden\source\repos\P08.Cruz Vera Elden Humberto\P08.Cruz Vera Elden Humberto\bin\Debug\P08.Cruz Vera Elden Humberto.exe.config
+C:\Users\Elden\source\repos\P08.Cruz Vera Elden Humberto\P08.Cruz Vera Elden Humberto\bin\Debug\P08.Cruz Vera Elden Humberto.exe
+C:\Users\Elden\source\repos\P08.Cruz Vera Elden Humberto\P08.Cruz Vera Elden Humberto\bin\Debug\P08.Cruz Vera Elden Humberto.pdb
+C:\Users\Elden\source\repos\P08.Cruz Vera Elden Humberto\P08.Cruz Vera Elden Humberto\obj\Debug\P08.Cruz Vera Elden Humberto.csprojResolveAssemblyReference.cache
+C:\Users\Elden\source\repos\P08.Cruz Vera Elden Humberto\P08.Cruz Vera Elden Humberto\obj\Debug\P08.Cruz Vera Elden Humberto.csproj.CoreCompileInputs.cache
+C:\Users\Elden\source\repos\P08.Cruz Vera Elden Humberto\P08.Cruz Vera Elden Humberto\obj\Debug\P08.Cruz Vera Elden Humberto.exe
+C:\Users\Elden\source\repos\P08.Cruz Vera Elden Humberto\P08.Cruz Vera Elden Humberto\obj\Debug\P08.Cruz Vera Elden Humberto.pdb
+F:\PE08.Cruz Vera Elden Humberto\P08.Cruz Vera Elden Humberto\bin\Debug\P08.Cruz Vera Elden Humberto.exe.config
+F:\PE08.Cruz Vera Elden Humberto\P08.Cruz Vera Elden Humberto\bin\Debug\P08.Cruz Vera Elden Humberto.exe
+F:\PE08.Cruz Vera Elden Humberto\P08.Cruz Vera Elden Humberto\bin\Debug\P08.Cruz Vera Elden Humberto.pdb
+F:\PE08.Cruz Vera Elden Humberto\P08.Cruz Vera Elden Humberto\obj\Debug\P08.Cruz Vera Elden Humberto.csproj.CoreCompileInputs.cache
+F:\PE08.Cruz Vera Elden Humberto\P08.Cruz Vera Elden Humberto\obj\Debug\P08.Cruz Vera Elden Humberto.exe
+F:\PE08.Cruz Vera Elden Humberto\P08.Cruz Vera Elden Humberto\obj\Debug\P08.Cruz Vera Elden Humberto.pdb
