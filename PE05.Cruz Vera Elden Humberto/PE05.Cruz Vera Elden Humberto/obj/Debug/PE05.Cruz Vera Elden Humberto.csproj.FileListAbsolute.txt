@@ -1,0 +1,21 @@
+C:\Users\Elden\source\repos\PE05.Cruz Vera Elden Humberto\PE05.Cruz Vera Elden Humberto\bin\Debug\PE05.Cruz Vera Elden Humberto.exe.config
+C:\Users\Elden\source\repos\PE05.Cruz Vera Elden Humberto\PE05.Cruz Vera Elden Humberto\bin\Debug\PE05.Cruz Vera Elden Humberto.exe
+C:\Users\Elden\source\repos\PE05.Cruz Vera Elden Humberto\PE05.Cruz Vera Elden Humberto\bin\Debug\PE05.Cruz Vera Elden Humberto.pdb
+C:\Users\Elden\source\repos\PE05.Cruz Vera Elden Humberto\PE05.Cruz Vera Elden Humberto\obj\Debug\PE05.Cruz Vera Elden Humberto.csprojResolveAssemblyReference.cache
+C:\Users\Elden\source\repos\PE05.Cruz Vera Elden Humberto\PE05.Cruz Vera Elden Humberto\obj\Debug\PE05.Cruz Vera Elden Humberto.csproj.CoreCompileInputs.cache
+C:\Users\Elden\source\repos\PE05.Cruz Vera Elden Humberto\PE05.Cruz Vera Elden Humberto\obj\Debug\PE05.Cruz Vera Elden Humberto.exe
+C:\Users\Elden\source\repos\PE05.Cruz Vera Elden Humberto\PE05.Cruz Vera Elden Humberto\obj\Debug\PE05.Cruz Vera Elden Humberto.pdb
+F:\PE05.Cruz Vera Elden Humberto\PE05.Cruz Vera Elden Humberto\bin\Debug\PE05.Cruz Vera Elden Humberto.exe.config
+F:\PE05.Cruz Vera Elden Humberto\PE05.Cruz Vera Elden Humberto\bin\Debug\PE05.Cruz Vera Elden Humberto.exe
+F:\PE05.Cruz Vera Elden Humberto\PE05.Cruz Vera Elden Humberto\bin\Debug\PE05.Cruz Vera Elden Humberto.pdb
+F:\PE05.Cruz Vera Elden Humberto\PE05.Cruz Vera Elden Humberto\obj\Debug\PE05.Cruz Vera Elden Humberto.csproj.CoreCompileInputs.cache
+F:\PE05.Cruz Vera Elden Humberto\PE05.Cruz Vera Elden Humberto\obj\Debug\PE05.Cruz Vera Elden Humberto.exe
+F:\PE05.Cruz Vera Elden Humberto\PE05.Cruz Vera Elden Humberto\obj\Debug\PE05.Cruz Vera Elden Humberto.pdb
+F:\PE05.Cruz Vera Elden Humberto\PE05.Cruz Vera Elden Humberto\obj\Debug\PE05.Cruz Vera Elden Humberto.csprojResolveAssemblyReference.cache
+C:\Users\Elden\Desktop\Practicas Evaluativas U1\PE05.Cruz Vera Elden Humberto\PE05.Cruz Vera Elden Humberto\bin\Debug\PE05.Cruz Vera Elden Humberto.exe.config
+C:\Users\Elden\Desktop\Practicas Evaluativas U1\PE05.Cruz Vera Elden Humberto\PE05.Cruz Vera Elden Humberto\bin\Debug\PE05.Cruz Vera Elden Humberto.exe
+C:\Users\Elden\Desktop\Practicas Evaluativas U1\PE05.Cruz Vera Elden Humberto\PE05.Cruz Vera Elden Humberto\bin\Debug\PE05.Cruz Vera Elden Humberto.pdb
+C:\Users\Elden\Desktop\Practicas Evaluativas U1\PE05.Cruz Vera Elden Humberto\PE05.Cruz Vera Elden Humberto\obj\Debug\PE05.Cruz Vera Elden Humberto.csprojResolveAssemblyReference.cache
+C:\Users\Elden\Desktop\Practicas Evaluativas U1\PE05.Cruz Vera Elden Humberto\PE05.Cruz Vera Elden Humberto\obj\Debug\PE05.Cruz Vera Elden Humberto.csproj.CoreCompileInputs.cache
+C:\Users\Elden\Desktop\Practicas Evaluativas U1\PE05.Cruz Vera Elden Humberto\PE05.Cruz Vera Elden Humberto\obj\Debug\PE05.Cruz Vera Elden Humberto.exe
+C:\Users\Elden\Desktop\Practicas Evaluativas U1\PE05.Cruz Vera Elden Humberto\PE05.Cruz Vera Elden Humberto\obj\Debug\PE05.Cruz Vera Elden Humberto.pdb
